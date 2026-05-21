@@ -39,7 +39,7 @@ La web se construye con tono institucional y enfoque editorial para transmitir s
 | Complejidad | Beginner |
 | Lenguaje principal | HTML |
 | Primera version | 10 de mayo de 2026 |
-| Ultima actualizacion | 12 de mayo de 2026 |
+| Ultima actualizacion | 21 de mayo de 2026 |
 
 ## Enlaces
 
